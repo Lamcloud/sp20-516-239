@@ -1,9 +1,9 @@
-# Week Fri 08/31/20 - 09/06/20
+# Week Mon 01/13/20 - 01/17/20
 
 * :+1: Attended lecture
-* :o2: reviewed python
+* :o2: Completed zoom poll, bio and class survey
 
-# Week Fri 07/31/20 - 13/06/20
+# Week Sat 01/18/20 - 01/24/20
 
 In case you did not work during the week, you still need to report it with 
 
